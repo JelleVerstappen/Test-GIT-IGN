@@ -1,0 +1,28 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "height": 100,
+          "width": 310,
+          "x": 228,
+          "y": 96
+        },
+        "props": {
+          "text": "Button before push"
+        },
+        "type": "ia.input.button"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}

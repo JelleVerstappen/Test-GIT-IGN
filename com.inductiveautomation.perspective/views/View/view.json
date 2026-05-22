@@ -15,7 +15,7 @@
           "y": 96
         },
         "props": {
-          "text": "Button before puh"
+          "text": "Button before push"
         },
         "type": "ia.input.button"
       }

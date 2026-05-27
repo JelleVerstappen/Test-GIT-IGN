@@ -15,7 +15,7 @@
           "y": 96
         },
         "props": {
-          "text": "Button before push"
+          "text": "Button test commit"
         },
         "type": "ia.input.button"
       }

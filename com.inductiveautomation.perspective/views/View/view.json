@@ -18,6 +18,21 @@
           "text": "Button before"
         },
         "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "Button_0"
+        },
+        "position": {
+          "height": 128,
+          "width": 376,
+          "x": 150,
+          "y": 387
+        },
+        "props": {
+          "text": "Test"
+        },
+        "type": "ia.input.button"
       }
     ],
     "meta": {
